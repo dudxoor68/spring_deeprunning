@@ -9,5 +9,5 @@ public class SpringDeepRunningApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringDeepRunningApplication.class, args);
 	}
-	
+
 }
